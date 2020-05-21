@@ -6,13 +6,12 @@
   <br>
 </h1>
 
-## Installation
-''''
-pkg install php
-git clone https://github.com/cantixcrew/syrena_beta
-cd syrena_beta
-php sirena.php
-''''
+# Installation
+#### pkg install php
+#### git clone https://github.com/cantixcrew/syrena_beta
+#### cd syrena_beta
+#### php sirena.php
+
 
 ## Features
 - [X] Information Gathering
@@ -24,10 +23,8 @@ php sirena.php
 
 ## Tools under development stage
 
-## Support
-''''
-https://facebook.com/cantixcr3w
-https://instagram.com/cantixcr3w
-https://twitter.com/cantixcr3w
-have solution for us ? contact on cantixcr3w@yahoo.com
-''''
+# Support
+#### https://facebook.com/cantixcr3w
+#### https://instagram.com/cantixcr3w
+#### https://twitter.com/cantixcr3w
+#### have solution for us ? contact on cantixcr3w@yahoo.com
