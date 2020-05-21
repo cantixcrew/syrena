@@ -2,7 +2,7 @@
   <br>
   <a href="https://instagram.com/cantixcr3w"><img src="https://j.top4top.io/p_1602f5xyc0.png" alt="Syrena Beta"></a>
   <br>
-  Syrena
+  Syrena toolkit beta version
   <br>
 </h1>
 
