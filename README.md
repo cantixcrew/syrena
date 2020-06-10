@@ -8,8 +8,8 @@
 
 # Installation
 #### pkg install php
-#### git clone https://github.com/cantixcrew/syrena_beta
-#### cd syrena_beta
+#### git clone https://github.com/cantixcrew/syrena
+#### cd syrena
 #### php sirena.php
 
 
